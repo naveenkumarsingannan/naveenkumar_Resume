@@ -3,7 +3,5 @@
 \LoadClass{article}
 \RequirePackage{geometry}
 \RequirePackage{titlesec}
-\newcommand{\name}[1]{
-	\centerline{\Huge{#1}}
-}
-
+\RequirePackage{graphicx}
+\newcommand{\name}[1]{\centerline{\Huge{#1}}}
