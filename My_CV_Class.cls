@@ -5,3 +5,8 @@
 \RequirePackage{titlesec}
 \RequirePackage{graphicx}
 \newcommand{\name}[1]{\centerline{\Huge{#1}}}
+\titleformat{\section}
+{\Large\scshape\raggedright}
+{}{0em}
+{}
+
