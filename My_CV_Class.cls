@@ -6,7 +6,7 @@
 \RequirePackage{graphicx}
 \newcommand{\name}[1]{\centerline{\Huge{#1}}}
 \titleformat{\section}
-{\Large\scshape\raggedright}
+{\scshape\Large\bf\raggedright}
 {}{0em}
 {}
 
